@@ -1,1 +1,1 @@
-# Data Structs: Linked and Array Implementation Projects (20230
+# Data Structs: Linked and Array Implementation Projects (Summer 2023)
