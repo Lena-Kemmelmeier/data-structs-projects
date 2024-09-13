@@ -1,0 +1,9 @@
+Possible path: Reno Seattle SLC Vegas SanFran Reno 
+Possible path: Reno Seattle SanFran Vegas SLC Reno 
+Possible path: Reno SLC Seattle SanFran Vegas Reno 
+Possible path: Reno SLC Vegas SanFran Seattle Reno 
+Possible path: Reno Vegas SanFran Seattle SLC Reno 
+Possible path: Reno Vegas SLC Seattle SanFran Reno 
+Possible path: Reno SanFran Vegas SLC Seattle Reno 
+Possible path: Reno SanFran Seattle SLC Vegas Reno 
+Best path: Reno Vegas SLC Seattle SanFran Reno 
